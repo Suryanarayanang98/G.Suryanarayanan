@@ -1,5 +1,4 @@
-# G Suryanarayanan
-## Data Science Portfolio
+# Projects
 
 ### [Project 1 : Fundamentals of DL (Course Project)](https://github.com/Suryanarayanang98/CS-6910-Foundation_of_Deep_Learning)
 #### SINGAN 
