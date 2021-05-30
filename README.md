@@ -1,7 +1,12 @@
 # G Suryanarayanan
 ## Data Science Portfolio
 
-### [Project 1 : Countries GDP Prediction](https://github.com/Suryanarayanang98/Countries-GDP)
+### [Project 1 : Fundamentals of DL (Course Project)](https://github.com/Suryanarayanang98/CS-6910-Foundation_of_Deep_Learning)
+#### SINGAN 
+* Studied & presented the research paper SINGAN:  Learning a Generative Model from a Single Natural Image, ICCV 2019.
+* Came up with innovative ideas like dynamic learning rate & scale factor enabling training faster with lesser scales.
+
+### [Project 2 : Countries GDP Prediction](https://github.com/Suryanarayanang98/Countries-GDP)
 The Goal of the project is to understand this dataset, geting insights from it and finally performing regression task on it to predict GDP of a country based on parameters like population, area, region, net migration etc.
 ![output](https://user-images.githubusercontent.com/64247956/84409420-083ce080-ac2b-11ea-8c45-833d0a61de8e.png)
 In this project, we used countries_of_the_world dataset to build a <b>GDP</b> predictor. 5 different learning regressors (Linear Regression,SGD, SVM, Random Forest, and XGBoost) were tested, and we have acheived the best prediction performance using XGBoost on an average from the 7 Fold cross- validation, followed by Linear Regression, and then Random Forest , while SVM acheived the worst performance of the 5.
