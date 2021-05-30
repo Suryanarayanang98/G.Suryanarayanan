@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# G Suryanarayanan
+## Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/Suryanarayanang98/Surya_portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [Project 1 : Countries GDP Prediction](https://github.com/Suryanarayanang98/Countries-GDP)
+The Goal of the project is to understand this dataset, geting insights from it and finally performing regression task on it to predict GDP of a country based on parameters like population, area, region, net migration etc.
+![output](https://user-images.githubusercontent.com/64247956/84409420-083ce080-ac2b-11ea-8c45-833d0a61de8e.png)
+In this project, we used countries_of_the_world dataset to build a <b>GDP</b> predictor. 5 different learning regressors (Linear Regression,SGD, SVM, Random Forest, and XGBoost) were tested, and we have acheived the best prediction performance using XGBoost on an average from the 7 Fold cross- validation, followed by Linear Regression, and then Random Forest , while SVM acheived the worst performance of the 5.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Suryanarayanang98/Surya_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The best prediction performance was acheived using <b>XGBoost regressor</b>, using all features in the dataset, and resulted in the following metrics:
+- Mean Absolute Error  <b> (MAE)</b> :0.3572660773680769
+- Root mean Squared Error  <b>(RMSE)</b> :0.47540445296842687
+- R-squared Score  <b>(R2_score)</b> :0.8332127481814264
