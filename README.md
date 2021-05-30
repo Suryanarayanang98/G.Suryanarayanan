@@ -5,6 +5,7 @@
 #### SINGAN 
 * Studied & presented the research paper SINGAN:  Learning a Generative Model from a Single Natural Image, ICCV 2019.
 * Came up with innovative ideas like dynamic learning rate & scale factor enabling training faster with lesser scales.
+
 #### Convolutional neural networks
 * Experimented & trained CNNs with varying parameters to do Image classification CIFAR 10 datasets with 85% accuracy.
 * Performed Occlusion experiment & Filter analysis to understand the CNN model’s learning & patches captured by filters.
