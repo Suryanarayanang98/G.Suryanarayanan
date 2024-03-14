@@ -1,7 +1,7 @@
 # Projects
 
 ### [Project 1 : Envisage 7.0 - Speed Painting Bot (Centre for Innovation Project)]()
-* Brainstormed the notion of using various motors to control & synchronize bot-painting technology efficiently.
+* Brainstormed & Spearheaded the notion of using various motors to control & synchronize bot-painting technology efficiently.
 * Designed 2 layered PCBs using EAGLE & assembled the components for a customized stepper motor driver.
 * Code for Image processing was written in Python using OpenCV & NumPy libraries with the RMS averaging.
 * Patent has been filed for this innovation & we have received an Indian Patent Application No. 201947026780.
