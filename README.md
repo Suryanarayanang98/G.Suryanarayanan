@@ -1,4 +1,4 @@
-# Portfolio
+## Portfolio
 
 ### [Project 1 : Envisage 7.0 - Speed Painting Bot (Centre for Innovation Project)]()
 * Brainstormed & Spearheaded the notion of using various motors to control & synchronize bot-painting technology efficiently.
